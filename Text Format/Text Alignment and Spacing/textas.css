@@ -1,0 +1,39 @@
+.text-color{
+  color:blue;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.text-decoration{
+    text-decoration:underline;
+}
+
+.text-indent{
+    text-indent: 20px;
+}
+
+.letter-spacing {
+    letter-spacing: 2px;
+}
+
+.line-height {
+    line-height: 6;
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.text-transform {
+    text-transform: uppercase;
+}
+
+.word-spacing {
+    word-spacing: 5px;
+}
+
+.text-direction {
+    direction: rtl;
+}

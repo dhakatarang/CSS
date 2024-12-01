@@ -1,10 +1,9 @@
 *{
     background-color: aquamarine;
-    background-image: ;
-    background-repeat: ;
-    background-attachment: fixed;
-    background-position: ;
-    background-origin: ;
-    background-clip: ;
-    background-size: ;
+    background-image: url(plants.jpg);
+    /* background-image: conic-gradient(red,yellow,rgb(0, 128, 21)); */
+    background-position:left top;
+    background-size:cover;
+    background-repeat:repeat-y;
+    background-origin:padding-box;
 }

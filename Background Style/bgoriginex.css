@@ -1,0 +1,8 @@
+#mydiv{
+    height:200px;
+    border:10px dashed black;
+    padding:25px;
+    background-origin: padding-box;
+    background-color: aqua;
+
+}
